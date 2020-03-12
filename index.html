@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>e-Architecte</title>
+    <script src="zoom-D.js"></script>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/aos.min.css">
     <link rel="stylesheet" href="css/hamburgers/hamburgers.min.css">
@@ -37,7 +38,7 @@
                 <li><a href="#creation" class="animsition-link js-smoothscroll">Créations</a></li>
                 <li><a href="#presentation" class="animsition-link js-smoothscroll">Présentation</a></li>
                 <li><a href="#philosophie" class="animsition-link js-smoothscroll">Photos</a></li>
-                <li><a href="#" class="animsition-link">Contact</a></li>
+                <li><a href="#contact" class="animsition-link js-smoothscroll">Contact</a></li>
               </ul>
             </nav>  
           </div>
@@ -173,9 +174,11 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-6" data-aos="fade-up">
-            <a class="project animsition-link" href="">
+            <a class="project">
               <figure>
+
                 <img src="images/oui.jpg" alt="Free Template" class="img-fluid" style="border-radius: 10px;">  
+
               </figure>
               <div class="project-hover">
                 <div class="project-hover-inner">
@@ -249,6 +252,38 @@
 
     <hr style="margin-left: 20%; margin-right: 20%;">
 
+    <section class="templateux-section" id="contact">
+      <div class="container py-5" data-aos="fade-up">
+        <div class="row">
+          <div class="col-md-12 clearfix mb-3">
+            <h2>Contact</h2>
+          </div>
+          <div class="col-md-6">
+            <p>Mail : <strong>magalie.scheffer@gmail.com</strong></p>
+            <p>Téléphone : <strong>07 81 80 32 00</strong></p>
+          </div>
+        </div>
+    </section>
+
+    
+    <!-- Creates the bootstrap modal where the image will appear -->
+    <div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            <h4 class="modal-title" id="myModalLabel">Image preview</h4>
+          </div>
+          <div class="modal-body">
+            <img src="" id="imagepreview" style="width: 400px; height: 264px;" >
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <footer class="templateux-footer">
       <div class="container-fluid">
         <div class="row">
@@ -261,7 +296,6 @@
 
   </div>
 
-  
   <script src="js/scripts-all.js"></script>
   <script src="js/main.js"></script>
   

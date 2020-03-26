@@ -307,3 +307,29 @@ textarea.form-control { height: inherit; }
 .text-center {
 	text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+.education-wrapper{ position: relative; }
+
+.education-wrapper:after{ content:''; position: absolute; top: 8px; bottom: 0; left: -51px;
+	width: 2px; background: grey; }
+
+.education-wrapper .education{ position: relative; }
+
+.education-wrapper .education:after{ content:''; position: absolute; top: 8px; left: -58px; width: 16px; 
+	height: 16px; border-radius: 10px; z-index: 1;
+	box-shadow: 0 0 0 9px rgba(222, 222, 222, .4); background: grey; }
+
+
+.section .heading{ margin-bottom: 60px; }
+
+.section .heading:before{ content:''; float: left; top: 8px; margin-left: -70px; margin-top: 14px; height: 12px; width: 40px; border-radius: 5px;
+	margin-bottom: 20px; display: block; background: grey; }

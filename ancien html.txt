@@ -60,20 +60,19 @@
     </section>
     <!-- END templateux-hero -->
 
-   <div><section class="templateux-portfolio-overlap mt-0" id="creation">
-      
-     <div class="container-fluid">
+    <section class="templateux-portfolio-overlap mt-0" id="creation">
+      <div class="container-fluid">
         <div class="row">
           <div class="col-md-6" data-aos="fade-up">
             <a class="project">
               <figure>
-                <img src="images/Corse dessin.jpg" alt="Free Template" class="img-fluid" style="width: 735; height: 450; border-radius: 10px;">  
+                <img src="images/plan casa1.jpg" alt="Free Template" class="img-fluid" style="border-radius: 10px;">  
               </figure>
               <div class="project-hover">
                 <div class="project-hover-inner">
-                  <h2>Croquis d'étude</h2>
-                  <span>Ce croquis d'une villa est un entraînement au dessin rapide, il a été réalisé en moins de 5 minutes en essayant de recenser le plus d'informations possibles. </span>
-                  <p style="color: rgba(255, 255, 255, 0.8);">Réalisé à la main.</p>
+                  <h2>Plan 2 dimensions</h2>
+                  <span style="text-align: center;">Ce plan d'architecture en 2d est celui de la Casa Gaspar produite par Alberto Campo Baeza en 1992. Produite dans le cadre d'un cours, l'objectif était de réaliser le plus précisément un plan grâce à des valeurs données. </span>
+                  <p style="color: rgba(255, 255, 255, 0.8);">Réalisé à la main et aux instruments.</p>
                 </div>
               </div>
             </a>
@@ -81,7 +80,7 @@
           <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
             <a class="project">
               <figure>
-                <img src="images/Kozikaza.jpg" alt="Free Template" class="img-fluid" style="width: 735; height: 450; border-radius: 10px;">  
+                <img src="images/Kozikaza.jpg" alt="Free Template" class="img-fluid" style="border-radius: 10px;">  
               </figure>
               <div class="project-hover">
                 <div class="project-hover-inner">
@@ -95,25 +94,11 @@
         </div>
         <!-- END row -->
       
-        <div class="row justify-content-start">
-             <div class="col-6" data-aos="fade-up" data-aos-delay="200">
+        <div class="row">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <a class="project">
               <figure>
-                <img src="images/plan casa1.jpg" alt="Free Template" class="img-fluid" style="width:100%; border-radius: 10px;">  
-              </figure>
-              <div class="project-hover">
-                <div class="project-hover-inner">
-                  <h2>Plan 2 dimensions</h2>
-                  <span style="text-align: center;">Ce plan d'architecture en 2d est celui de la Casa Gaspar produite par Alberto Campo Baeza en 1992. Produite dans le cadre d'un cours, l'objectif était de réaliser le plus précisément un plan grâce à des valeurs données. </span>
-                  <p style="color: rgba(255, 255, 255, 0.8);">Réalisé à la main et aux instruments.</p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <a class="project">
-              <figure>
-                <img src="images/coupe casa 3.jpg" alt="Free Template" class="img-fluid" style="width: 100%; border-radius: 10px;">  
+                <img src="images/coupe casa 2.jpg" alt="Free Template" class="img-fluid" style="border-radius: 10px;">  
               </figure>
               <div class="project-hover">
                 <div class="project-hover-inner">
@@ -125,27 +110,7 @@
             </a>
             <a class="project">
               <figure>
-                <img src="images/maquette1.JPG" alt="Free Template" class="img-fluid" style="width: 735; height: 309; border-radius: 10px;">  
-              </figure>
-              <div class="project-hover">
-                <div class="project-hover-inner">
-                  <h2>Maquette d'étude</h2>
-                  <span>Cette maquette vise à mettre en valeur différentes oeuvres d'art grâce à la lumière directe et la lumière artificielle.</span>
-                  <p style="color: rgba(255, 255, 255, 0.8);">Réalisé au carton gris à l'échelle 1/50e.</p>
-                </div>
-              </div>
-            </a>
-          </div>
-      
-          
-        </div>
-
-<div class="container-fluid">
-        <div class="row justify-content-center">
-          <div class=".col-xl-" data-aos="fade-up">
-            <a class="project">
-             <figure>
-                <img src="images/Canape.jpg" alt="Free Template" class="img-fluid" style="width: 900; height: 450; border-radius: 10px;">  
+                <img src="images/Canape.jpg" alt="Free Template" class="img-fluid" style="border-radius: 10px;">  
               </figure>
               <div class="project-hover">
                 <div class="project-hover-inner">
@@ -156,10 +121,38 @@
               </div>
             </a>
           </div>
-
-
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <a class="project">
+              <figure>
+                <img src="images/maquette1.JPG" alt="Free Template" class="img-fluid" style="border-radius: 10px;">  
+              </figure>
+              <div class="project-hover">
+                <div class="project-hover-inner">
+                  <h2>Maquette d'étude</h2>
+                  <span>Cette maquette vise à mettre en valeur différentes oeuvres d'art grâce à la lumière directe et la lumière artificielle.</span>
+                  <p style="color: rgba(255, 255, 255, 0.8);">Réalisé au carton gris à l'échelle 1/50e.</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <a class="project">
+              <figure>
+                <img src="images/Corse dessin.jpg" alt="Free Template" class="img-fluid" style="border-radius: 10px;">  
+              </figure>
+              <div class="project-hover">
+                <div class="project-hover-inner">
+                  <h2>Croquis d'étude</h2>
+                  <span>Ce croquis d'une villa est un entraînement au dessin rapide, il a été réalisé en moins de 5 minutes en essayant de recenser le plus d'informations possibles. </span>
+                  <p style="color: rgba(255, 255, 255, 0.8);">Réalisé à la main.</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          
+        </div>
         <!-- END row -->
-      </div> 
+      </div>
     </section>
 
     <section class="templateux-section mt-0" id="Curriculum Vitae">
@@ -235,7 +228,7 @@
             <a class="project">
               <figure>
 
-                <img src="images/oui.jpg" alt="Free Template" class="img-fluid" style="width: 735; height: 330; border-radius: 10px;">  
+                <img src="images/oui.jpg" alt="Free Template" class="img-fluid" style="width: 735; height: auto; border-radius: 10px;">  
 
               </figure>
               <div class="project-hover">
@@ -249,7 +242,7 @@
           <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
             <a class="project">
               <figure>
-                <img src="images/Corse.jpg" alt="Free Template" class="img-fluid" style="width: 735; height: 330; border-radius: 10px;">  
+                <img src="images/Corse.jpg" alt="Free Template" class="img-fluid" style="width: 735; height: auto; border-radius: 10px;">  
               </figure>
               <div class="project-hover">
                 <div class="project-hover-inner">
@@ -276,10 +269,10 @@
               </div>
             </a>
           </div>
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <a class="project">
               <figure>
-                <img src="images/Evian_edit.jpg" alt="Free Template" class="img-fluid" style="width: 479; height: 225; border-radius: 10px;">  
+                <img src="images/Evian_edit.jpg" alt="Free Template" class="img-fluid" style="width: 479; height: auto; border-radius: 10px;">  
               </figure>
               <div class="project-hover">
                 <div class="project-hover-inner">
@@ -290,7 +283,7 @@
             </a>
             <a class="project">
               <figure>
-                <img src="images/Fleur.JPG" alt="Free Template" class="img-fluid" style="width: 479; height: 225; border-radius: 10px;">  
+                <img src="images/Fleur.JPG" alt="Free Template" class="img-fluid" style="width: 479; height: auto; border-radius: 10px;">  
               </figure>
               <div class="project-hover">
                 <div class="project-hover-inner">
@@ -328,31 +321,35 @@
             <h2 class="text-center">FAQ</h2>
           </div>
 
-<section class="education-section section mb-5" id="presentation">
+          <section class="education-section section mb-5" id="presentation">
     <div class="container">
             <div class="heading">
               <h3><b>Pourquoi ce site ?</b></h3>
-              <p class="margin-tb-30">L'architecture qui est désormais au centre de mes études demande beaucoup de connaissances et de pratiques. Ce site permet donc de constituer le début de mon portfolio et de présenter les différents exercices que j'ai pu réaliser au cours de mes différentes années d'apprentissage. Elle présente donc mon évolution tout en présentant mon travail.</p>
-            </div> 
+              <p class="margin-tb-30">L'architecture qui est désormais au centre de mes études demande beaucoup de connaissances et de pratiques. Ce site permet donc de constituer le début de mon portfolio et de présenter les différents exercices que j'ai pu réaliser au cours de mes différentes années d'apprentissage. Elle présente donc mon évolution tout en présentant mon travail.
+              </p>
+</div> 
+<section class="education-section section mb-5" id="presentation">
+    <div class="container">
             <div class="heading">
-              <h3><b>Pourquoi "e-architecture" ?</b></h3>
+             <h3><b>Pourquoi "e-architecture" ?</b></h3>
               <p class="margin-tb-30">Le "e" représente pour moi tout ce qui se trouve en ligne, c'est pourquoi, n'ayant pas encore de cabinet physique, j'ai choisis ce nom. Le "e" représente aussi l'élégance de l'architecture et tout l'engagement que cela représente. 
               </p>
-            </div>  
-      <div class="heading;">
-              <h3><b>Qui suis-je ?</b></h3>
-              <h6 style="color: rgba(17, 17, 17, 0.8)">Amphion-les-bains</h6>
-              <h6 class="font-lite-black margin-t-10">18/01/2021 - 05/02/2021</h6>
-             <p class="margin-tb-30;">Je m'appelle Magalie, et je suis actuellement en L2 à l'Ecole Nationale Supérieure d'Architecture de Nancy. J'ai commencé mes études en 2020 juste après l'obtention de mon baccalauréat économique et social. 
+              </div> 
+<section class="education-section section mb-5" id="presentation">
+    <div class="container">
+            <div class="heading">
+            <h3><b>Qui suis-je ?</b></h3>
+            <p class="margin-tb-30">Je m'appelle Magalie, et je suis actuellement en L2 à l'Ecole Nationale Supérieure d'Architecture de Nancy. J'ai commencé mes études en 2020 juste après l'obtention de mon baccalauréat économique et social. 
             </p>
 
 
-            <hr style="margin-left: 0%; margin-right: 0%;">
-            
 
-         
-</div>
 
+      </div>
+      </div>
+    </section>
+
+    <hr style="margin-left: 20%; margin-right: 20%;" class="mb-5">
 
     <section class="templateux-section" id="contact">
       <div class="container py-5" data-aos="fade-up">

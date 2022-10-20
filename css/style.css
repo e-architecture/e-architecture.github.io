@@ -24,6 +24,8 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .templateux-navbar .site-logo a { font-size: 30px; color: #000; }
 
+.site-author {font-size: 13px;text-transform: uppercase;letter-spacing: .2em;position: relative; display: inline-block;}
+
 .templateux-navbar .templateux-menu { position: relative; }
 
 .templateux-navbar .templateux-menu ul { margin-bottom: 0; }
